@@ -1,0 +1,28 @@
+{
+  "zipcode": "80003",
+  "total_qualified": 1,
+  "scraped_at": "2025-11-05 13:44:32",
+  "businesses": [
+    {
+      "business_name": "Tipping Hat Plumbing, Heating & Electric",
+      "owner_name": null,
+      "owner_email": null,
+      "business_email": null,
+      "address": "608 Garrison St",
+      "city": "Arvada",
+      "state": "CO",
+      "zip_code": null,
+      "phone": "(533) 378-2544",
+      "website": "https://www.angi.com/companylist/us/co/arvada/plumbing.htm",
+      "description": "Specializing in both residential and commercial plumbing, we offer a full range of services including fixture installation, repiping, gas line work, water heater installation, and sump systems.",
+      "services": [
+        "Plumbing",
+        "Heating",
+        "Cooling",
+        "Drain Cleaning",
+        "Electric Service"
+      ],
+      "source_url": "https://www.angi.com/companylist/us/co/arvada/plumbing.htm"
+    }
+  ]
+}
