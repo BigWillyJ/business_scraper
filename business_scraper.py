@@ -120,8 +120,8 @@ class SmallBusinessScraper:
 
         # ===== OXYLABS CONFIGURATION =====
         oxylabs_config = {
-            'username': 'filljoey_scrapes_RDkMh',
-            'password': 'iosdf92~Icks',
+            'username': '',
+            'password': '',
         }
 
         # Check if credentials are configured
@@ -703,8 +703,8 @@ def main():
     print("="*60 + "\n")
 
     # ===== AUTO-SEARCH BY ZIP CODE =====
-    ZIPCODE = "80003"  # Change to your target zip code
-    MAX_BUSINESSES = 150  # How many businesses to find
+    ZIPCODE = ""  # Change to your target zip code
+    MAX_BUSINESSES = 1  # How many businesses to find
 
     scraper.run_by_zipcode(ZIPCODE, max_businesses=MAX_BUSINESSES)
 
