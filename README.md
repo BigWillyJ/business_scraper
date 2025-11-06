@@ -5,6 +5,7 @@ https://ollama.com/library/deepseek-r1:14b (link attached for tutorial of downlo
 ONLY WORKS FOR NVIDA GPU's
 
 Install dependinces
+
 pip install ollama beautifulsoup4 requests
 
 On lines 123 and 124 put your oxylabs username and password for their scraping service 
