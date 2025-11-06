@@ -2,6 +2,7 @@ read the code in the .py file, comments are the instructions
 
 Runs off a local installed llm on the users computer, to run you must have deepseek r1 14b installed.
 https://ollama.com/library/deepseek-r1:14b (link attached for tutorial of download)  
+ONLY WORKS FOR NVIDA GPU's
 
 Install dependinces (paste below message into your terminal: 
 pip install ollama beautifulsoup4 requests
